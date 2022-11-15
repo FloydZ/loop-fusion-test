@@ -1,0 +1,6 @@
+[submodule "deps/loop-fusion"]
+	path = deps/loop-fusion
+	url = https://github.com/loop-fusion/loop-fusion
+[submodule "deps/benchmark"]
+	path = deps/benchmark
+	url = https://github.com/google/benchmark
