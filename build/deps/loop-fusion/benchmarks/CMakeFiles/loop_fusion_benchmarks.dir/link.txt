@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/loop_fusion_benchmarks.dir/benchmarks.cpp.o CMakeFiles/loop_fusion_benchmarks.dir/benchmark_loop_fusion.cpp.o CMakeFiles/loop_fusion_benchmarks.dir/benchmark_loop_union.cpp.o -o loop_fusion_benchmarks 

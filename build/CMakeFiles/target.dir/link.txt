@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/target.dir/src/main.cpp.o -o target   -L/home/duda/Downloads/programming/loop-fusion-test/deps/benchmark/build/src  -Wl,-rpath,/home/duda/Downloads/programming/loop-fusion-test/deps/benchmark/build/src -lbenchmark::benchmar-lbenchmark -lpthreadk 
