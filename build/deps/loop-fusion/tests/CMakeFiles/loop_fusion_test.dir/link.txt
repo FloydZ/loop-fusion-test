@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/loop_fusion_test.dir/test.cpp.o CMakeFiles/loop_fusion_test.dir/test_helpers.cpp.o CMakeFiles/loop_fusion_test.dir/test_loop_fusion_compiletime.cpp.o CMakeFiles/loop_fusion_test.dir/test_loop_fusion_runtime.cpp.o CMakeFiles/loop_fusion_test.dir/test_loop_fusion_simple.cpp.o -o loop_fusion_test 

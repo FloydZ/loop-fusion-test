@@ -1,0 +1,5 @@
+if(EXISTS "/home/duda/Downloads/programming/loop-fusion-test/build/deps/loop-fusion/tests/loop_fusion_test_tests-b858cb2.cmake")
+  include("/home/duda/Downloads/programming/loop-fusion-test/build/deps/loop-fusion/tests/loop_fusion_test_tests-b858cb2.cmake")
+else()
+  add_test(loop_fusion_test_NOT_BUILT-b858cb2 loop_fusion_test_NOT_BUILT-b858cb2)
+endif()

@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/duda/Downloads/programming/loop-fusion-test/build",
+  "command": "/usr/bin/c++  -I/home/duda/Downloads/programming/loop-fusion-test/deps/benchmark/include -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/include -g -std=gnu++20 -o CMakeFiles/target.dir/src/main.cpp.o -c /home/duda/Downloads/programming/loop-fusion-test/src/main.cpp",
+  "file": "/home/duda/Downloads/programming/loop-fusion-test/src/main.cpp"
+},
+{
+  "directory": "/home/duda/Downloads/programming/loop-fusion-test/build/deps/loop-fusion/tests",
+  "command": "/usr/bin/c++  -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/tests -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/third_party -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/include -g -Wall -Wextra -pedantic -Wunknown-pragmas -Wundef -Wold-style-cast -Wuseless-cast -Wdisabled-optimization -Wstrict-overflow=4 -Winit-self -Wpointer-arith -Wduplicated-cond -Wdouble-promotion -Wshadow -Wduplicated-branches -Wrestrict -Wnull-dereference -Wlogical-op -Wunsafe-loop-optimizations -Wno-error=unsafe-loop-optimizations -Wformat=2 -Wmissing-field-initializers -std=gnu++20 -o CMakeFiles/loop_fusion_test.dir/test.cpp.o -c /home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/tests/test.cpp",
+  "file": "/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/tests/test.cpp"
+},
+{
+  "directory": "/home/duda/Downloads/programming/loop-fusion-test/build/deps/loop-fusion/tests",
+  "command": "/usr/bin/c++  -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/tests -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/third_party -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/include -g -Wall -Wextra -pedantic -Wunknown-pragmas -Wundef -Wold-style-cast -Wuseless-cast -Wdisabled-optimization -Wstrict-overflow=4 -Winit-self -Wpointer-arith -Wduplicated-cond -Wdouble-promotion -Wshadow -Wduplicated-branches -Wrestrict -Wnull-dereference -Wlogical-op -Wunsafe-loop-optimizations -Wno-error=unsafe-loop-optimizations -Wformat=2 -Wmissing-field-initializers -std=gnu++20 -o CMakeFiles/loop_fusion_test.dir/test_helpers.cpp.o -c /home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/tests/test_helpers.cpp",
+  "file": "/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/tests/test_helpers.cpp"
+},
+{
+  "directory": "/home/duda/Downloads/programming/loop-fusion-test/build/deps/loop-fusion/tests",
+  "command": "/usr/bin/c++  -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/tests -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/third_party -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/include -g -Wall -Wextra -pedantic -Wunknown-pragmas -Wundef -Wold-style-cast -Wuseless-cast -Wdisabled-optimization -Wstrict-overflow=4 -Winit-self -Wpointer-arith -Wduplicated-cond -Wdouble-promotion -Wshadow -Wduplicated-branches -Wrestrict -Wnull-dereference -Wlogical-op -Wunsafe-loop-optimizations -Wno-error=unsafe-loop-optimizations -Wformat=2 -Wmissing-field-initializers -std=gnu++20 -o CMakeFiles/loop_fusion_test.dir/test_loop_fusion_compiletime.cpp.o -c /home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/tests/test_loop_fusion_compiletime.cpp",
+  "file": "/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/tests/test_loop_fusion_compiletime.cpp"
+},
+{
+  "directory": "/home/duda/Downloads/programming/loop-fusion-test/build/deps/loop-fusion/tests",
+  "command": "/usr/bin/c++  -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/tests -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/third_party -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/include -g -Wall -Wextra -pedantic -Wunknown-pragmas -Wundef -Wold-style-cast -Wuseless-cast -Wdisabled-optimization -Wstrict-overflow=4 -Winit-self -Wpointer-arith -Wduplicated-cond -Wdouble-promotion -Wshadow -Wduplicated-branches -Wrestrict -Wnull-dereference -Wlogical-op -Wunsafe-loop-optimizations -Wno-error=unsafe-loop-optimizations -Wformat=2 -Wmissing-field-initializers -std=gnu++20 -o CMakeFiles/loop_fusion_test.dir/test_loop_fusion_runtime.cpp.o -c /home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/tests/test_loop_fusion_runtime.cpp",
+  "file": "/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/tests/test_loop_fusion_runtime.cpp"
+},
+{
+  "directory": "/home/duda/Downloads/programming/loop-fusion-test/build/deps/loop-fusion/tests",
+  "command": "/usr/bin/c++  -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/tests -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/third_party -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/include -g -Wall -Wextra -pedantic -Wunknown-pragmas -Wundef -Wold-style-cast -Wuseless-cast -Wdisabled-optimization -Wstrict-overflow=4 -Winit-self -Wpointer-arith -Wduplicated-cond -Wdouble-promotion -Wshadow -Wduplicated-branches -Wrestrict -Wnull-dereference -Wlogical-op -Wunsafe-loop-optimizations -Wno-error=unsafe-loop-optimizations -Wformat=2 -Wmissing-field-initializers -std=gnu++20 -o CMakeFiles/loop_fusion_test.dir/test_loop_fusion_simple.cpp.o -c /home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/tests/test_loop_fusion_simple.cpp",
+  "file": "/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/tests/test_loop_fusion_simple.cpp"
+},
+{
+  "directory": "/home/duda/Downloads/programming/loop-fusion-test/build/deps/loop-fusion/benchmarks",
+  "command": "/usr/bin/c++ -DCATCH_CONFIG_ENABLE_BENCHMARKING -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/third_party -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/include -g -Wall -Wextra -pedantic -Wunknown-pragmas -Wundef -Wold-style-cast -Wuseless-cast -Wdisabled-optimization -Wstrict-overflow=4 -Winit-self -Wpointer-arith -Wduplicated-cond -Wdouble-promotion -Wshadow -Wduplicated-branches -Wrestrict -Wnull-dereference -Wlogical-op -Wunsafe-loop-optimizations -Wno-error=unsafe-loop-optimizations -Wformat=2 -Wmissing-field-initializers -std=gnu++20 -o CMakeFiles/loop_fusion_benchmarks.dir/benchmarks.cpp.o -c /home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/benchmarks/benchmarks.cpp",
+  "file": "/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/benchmarks/benchmarks.cpp"
+},
+{
+  "directory": "/home/duda/Downloads/programming/loop-fusion-test/build/deps/loop-fusion/benchmarks",
+  "command": "/usr/bin/c++ -DCATCH_CONFIG_ENABLE_BENCHMARKING -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/third_party -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/include -g -Wall -Wextra -pedantic -Wunknown-pragmas -Wundef -Wold-style-cast -Wuseless-cast -Wdisabled-optimization -Wstrict-overflow=4 -Winit-self -Wpointer-arith -Wduplicated-cond -Wdouble-promotion -Wshadow -Wduplicated-branches -Wrestrict -Wnull-dereference -Wlogical-op -Wunsafe-loop-optimizations -Wno-error=unsafe-loop-optimizations -Wformat=2 -Wmissing-field-initializers -std=gnu++20 -o CMakeFiles/loop_fusion_benchmarks.dir/benchmark_loop_fusion.cpp.o -c /home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/benchmarks/benchmark_loop_fusion.cpp",
+  "file": "/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/benchmarks/benchmark_loop_fusion.cpp"
+},
+{
+  "directory": "/home/duda/Downloads/programming/loop-fusion-test/build/deps/loop-fusion/benchmarks",
+  "command": "/usr/bin/c++ -DCATCH_CONFIG_ENABLE_BENCHMARKING -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/third_party -I/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/include -g -Wall -Wextra -pedantic -Wunknown-pragmas -Wundef -Wold-style-cast -Wuseless-cast -Wdisabled-optimization -Wstrict-overflow=4 -Winit-self -Wpointer-arith -Wduplicated-cond -Wdouble-promotion -Wshadow -Wduplicated-branches -Wrestrict -Wnull-dereference -Wlogical-op -Wunsafe-loop-optimizations -Wno-error=unsafe-loop-optimizations -Wformat=2 -Wmissing-field-initializers -std=gnu++20 -o CMakeFiles/loop_fusion_benchmarks.dir/benchmark_loop_union.cpp.o -c /home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/benchmarks/benchmark_loop_union.cpp",
+  "file": "/home/duda/Downloads/programming/loop-fusion-test/deps/loop-fusion/benchmarks/benchmark_loop_union.cpp"
+}
+]
