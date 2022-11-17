@@ -3,7 +3,7 @@ Installation:
 
 Run the following:
 ```bash
-git clone --recursive TODO
+git clone --recursive https://github.com/FloydZ/loop-fusion-test
 
 # setup google bench
 cd deps/benchmark
